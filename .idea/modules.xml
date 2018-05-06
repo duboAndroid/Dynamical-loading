@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dynamical-loading.iml" filepath="$PROJECT_DIR$/Dynamical-loading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dexmakersample/dexmakersample.iml" filepath="$PROJECT_DIR$/dexmakersample/dexmakersample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugLoadDemo/plugLoadDemo.iml" filepath="$PROJECT_DIR$/plugLoadDemo/plugLoadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugLoadMgr/plugLoadMgr.iml" filepath="$PROJECT_DIR$/plugLoadMgr/plugLoadMgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapk/testapk.iml" filepath="$PROJECT_DIR$/testapk/testapk.iml" />
+    </modules>
+  </component>
+</project>
